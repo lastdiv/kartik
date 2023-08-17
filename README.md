@@ -1,2 +1,2 @@
 # kartik
-this is demo form Git &amp; Git hub class
+this is demo form Git &amp; Git hub class.
